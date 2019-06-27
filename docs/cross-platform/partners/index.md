@@ -374,11 +374,10 @@ _Listed by primary location, many partners provide services across borders._
 | --- | --- | --- |
 |[27interactive](http://27interactive.com)|Düsseldorf, Germany; Hamburg, Germany|Tailor-made cross platform solutions for smartphones and tablets with Android, iOS, Windows and macOS|
 |[AIT](http://www.aitgmbh.de)|Stuttgart, Germany|AIT is one of the leading developers and software consultants specializing on .NET platform and more. It has been a multi-award winning Microsoft Gold Partner for many years.|
-|[All about Ashley GmbH](http://www.a-gentur.de)|Ibbenbueren, Germany|All about Ashley supports companies in the design and optimization of IT solutions.|
 |[BRICKMAKERS GmbH](http://www.brickmakers.de)|Koblenz, Germany|For all of Brickmakers activities, the focus is on the project's success and benefit. Because of their agile action during their processes, maximum transparency for the customer is given. Besides the ranges concept, design and development, they also gladly assume responsibility for their portals and apps marketing. This enables them to bring all their experiences into the complete life cycle of digital products.|
 |[BTC AG](http://www.btc-ag.com )|Oldenburg, Germany|We develop new solutions and specify the standard for you|
 |[CATIS](http://www.catis.de/)|Wolfsburg, Germany; Gifhorn, Germany; Hanover, Germany; Sindelfingen, Germany; Ingolstadt, Germany; Ajax, Canada; Mlada Boleslav, Czech Republic; Chattanooga, TN|The CATIS Modern Work unit has an experienced team of App Developers, capable of mobilising your enterprise by creating tailor-made Business and Consumer Apps|
-|[Cayas Software](http://www.cayas.de)|Minden, Germany|Cayas software creates custom software for the desktop, apps for Android, iPad and iPhone, as well as for the web|
+|[Cayas Software](http://www.cayas.de)|Minden, Germany|Cayas Software creates custom software for the desktop, apps for Android, iPad and iPhone, as well as for the web|
 |[FRIDIE interactive, Dietrich & Fritz GbR](http://fridie.de)|Stuttgart, Germany|At FRIDIE interactive we develop custom Apps and interactive Software for Windows, Android and iOS|
 |[Incloud GmbH](https://www.incloud.de)|Darmstadt, Germany|Incloud is an award winning software company, specialized in Enterprise Cross Platform Apps and consulting|
 |[InfoMantis GmbH](http://www.infomantis.de)|Osnabruck, Germany|Cross-platform app software development company|
